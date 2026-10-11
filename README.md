@@ -1,0 +1,2 @@
+# premium-tile-glaze-001-glaze-chemistry-cone-tempera
+You shouldn't need a week of setup before your system is usable to have a complete productivity system running today.  Fully documented: every section explained so you know exactly what to customize. Pre-built databases, views, and formula fields — ready to duplicate and use.  ## What's Included  - Glaze Chemistry &amp; Cone Temperature Testing Databas
